@@ -34,7 +34,7 @@
           API Oficial
         </a>
         <a
-          href="https://github.com/"
+          href="https://github.com/sebastian-1997/rick_morty_web_vue3"
           target="_blank"
           class="text-purple-400 hover:text-purple-300 transition drop-shadow-[0_0_6px_#A855F7]"
         >
